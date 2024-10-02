@@ -1,0 +1,23 @@
+*{
+    justify-content: center;
+}
+
+
+.top {
+    justify-content: center;
+    text-align: center;
+}
+
+
+.container {
+    margin-top: 20px;
+    width: 700px;
+}
+
+img{
+    margin: 10PX;
+}
+
+.imagens {
+   display: flex;
+}
